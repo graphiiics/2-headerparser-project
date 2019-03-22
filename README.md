@@ -1,2 +1,2 @@
-# 2-headerparser-project
-https://2-headerparser-graphiiics.glitch.me
+# boilerplate-project-headerparser
+A boilerplate for a freeCodeCamp project.
